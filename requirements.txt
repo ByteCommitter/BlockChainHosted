@@ -1,0 +1,2 @@
+Needs to have a system capable of running Redis server.
+Rest of the requirements can be installed with npm cmds!
